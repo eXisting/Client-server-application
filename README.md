@@ -1,6 +1,6 @@
 # Client-server-application
 
-№№ MVP ( Model-View-Presenter ) pattern application
+## MVP ( Model-View-Presenter ) pattern application
 
 Task statement: 
  * develop the program that allows you to establish connection between client and server folder in way that changes on server will automatically perfrom by client ( folder synchronization );
